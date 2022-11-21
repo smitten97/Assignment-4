@@ -35,7 +35,7 @@ visualizer("02", "Series 02 Visualization", "blue", 4,"y","x","Title")
 visualizer("03", "Series 03 Visualization", "green", 5,"y","x","Title")
 ```
 
-Finally the code is fun, where I called 3 different series from the "series".csv files. Likewise, the color, width of the plot, labels and title is also selected. 
+Finally the code is run, where I called 3 different series from the "series".csv files. Likewise, the color, width of the plot, labels and title is also selected. 
 
 
 ### 3. To Stack or not to Stack
